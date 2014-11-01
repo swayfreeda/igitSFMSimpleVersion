@@ -1,3 +1,10 @@
+//========================================================================================================//
+// Description: A simple software that can diplay 3D scene with textures
+// Author: Sui Wei
+// Time: 10/29/2014
+// Company: Institute of Automation, Chinese Academy of Science
+
+
 #include <mainwindow.h>
 #include "mainwindow.h"
 #include <QApplication>
